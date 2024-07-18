@@ -14,6 +14,7 @@
   --border-radius-base: 1rem;
   --border-radius-small: 0.5rem;
   --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --content-letter-spacing: 0.2px;
 }
 
 body {
@@ -57,4 +58,5 @@ body {
   color: var(--secondary-color);
   font-size: var(--font-size-base);
   padding: 0 var(--card-padding);
+  letter-spacing: var(--content-letter-spacing);
 }

@@ -6,4 +6,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://samoqrcode.netlify.app/](https://samoqrcode.netlify.app/)
+- Solution URL: [https://samo-qr-code-component.netlify.app/](https://samo-qr-code-component.netlify.app/)
